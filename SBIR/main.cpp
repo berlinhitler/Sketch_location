@@ -158,13 +158,13 @@ void match(path picture, LEM sketch)
     thresholdDis = 30;
     thresholdPer = 0.9;
     lowdelta = 0.2;
-    Search(0, 1, 1, -1, sketch, pic);
+    //Search(0, 1, 1, -1, sketch, pic);
     cout<<"done3 "<<result.size()<<endl;
     for(Result r : result)
     {
         cout<<r.Sx<<"\t"<<r.MinSHx<<"\t"<<r.MaxSHx<<"\t"<<r.MinSy<<"\t"<<r.MaxSy<<"\t"<<r.r<<"\t"<<r.Tx<<"\t"<<r.Ty<<"\t"<<r.beta<<"\t"<<r.d<<"\t"<<r.Rate<<endl;
     }
-    drawSearchResult(ii,0,1,pic,sketch);
+    //drawSearchResult(ii,0,1,pic,sketch);
     cout<<"done4"<<endl;
     ranking.push_back(PAIR(name,score));
 
