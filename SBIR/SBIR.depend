@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1449815040 source:/home/yasir/Desktop/SBIR_LEM/SBIR/main.cpp
+	<iostream>
+	<cvipl/cvipl.h>
+	<cvipl/lem/lem.h>
+	<cvipl/misc.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<boost/filesystem.hpp>
+	<boost/filesystem/operations.hpp>
+	<algorithm>
+	<cmath>
+	<cvipl/lem/i3.h>
+	<cvipl/lem/linePt2_nodisp.h>
+	<cvipl/lem/selectPt_merit.h>
+	<cvipl/lem/tif_thin.h>
+	<cvipl/lem/IPSthin.h>
+	<cvipl/lem/tif_IO.h>
+	<cvipl/lem/nD_arrays.h>
+	"Cell.h"
+	"PointM.h"
+	"SearchSpaceInSHX_SY.h"
+
+1409272201 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/cvipl.h
+	"array.h"
+	"lap.h"
+	"misc.h"
+	"point.h"
+	"polyline.h"
+	"transform.h"
+	"trig.h"
+
+1407492902 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/array.h
+	<typeinfo>
+	<cstdio>
+
+1410338702 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/lap.h
+	"array.h"
+	"misc.h"
+	<algorithm>
+	<string.h>
+	<limits>
+	<type_traits>
+
+1446004842 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/misc.h
+	<vector>
+	<string>
+	<string.h>
+	<vector>
+	<time.h>
+	<math.h>
+
+1412928001 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/point.h
+	<cmath>
+	<iostream>
+	<cassert>
+	"misc.h"
+
+1446004845 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/polyline.h
+	<vector>
+	<cstring>
+	<stdint.h>
+	<cassert>
+	<cmath>
+	<opencv2/opencv.hpp>
+	"misc.h"
+	"point.h"
+	"trig.h"
+
+1405577701 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/trig.h
+	<math.h>
+	"point.h"
+
+1411028101 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/transform.h
+	<boost/numeric/ublas/matrix.hpp>
+	<vector>
+	"point.h"
+	"polyline.h"
+
+1446961771 /home/yasir/Desktop/SBIR_LEM/SBIR/libcvipl_c/lem/lem.h
+	<string>
+	<vector>
+	"../polyline.h"
+	<opencv2/core/core.hpp>
+
+1447128167 source:/home/yasir/Desktop/SBIR_LEM/SBIR/src/PointM.cpp
+	"PointM.h"
+
+1447127943 /home/yasir/Desktop/SBIR_LEM/SBIR/include/PointM.h
+
+1448324613 source:/home/yasir/Desktop/SBIR_LEM/SBIR/src/SearchSpaceInSHX_SY.cpp
+	"SearchSpaceInSHX_SY.h"
+	<cmath>
+	<iostream>
+
+1447913795 /home/yasir/Desktop/SBIR_LEM/SBIR/include/SearchSpaceInSHX_SY.h
+	<vector>
+
+1447130105 source:/home/yasir/Desktop/SBIR_LEM/SBIR/src/Cell.cpp
+	"Cell.h"
+
+1447130106 /home/yasir/Desktop/SBIR_LEM/SBIR/include/Cell.h
+
